@@ -1,0 +1,85 @@
+
+body {
+    background-color: gray;
+    padding-left: 150px;
+    padding-right: 150px;
+    
+}
+
+header {
+    border: 1px blue dotted;
+    background-color: white;
+    margin-top: 2px;
+    padding: 20px;
+    height: 40px;
+    text-align: center;
+}
+
+nav {
+    border: 1px blue dotted;
+    padding: 20px;
+    height: 40px;
+    text-align: center;
+    background-color: white;
+    margin-top: 10px;
+}
+
+div {margin-top: 17px;
+}
+section {
+    background-color: white;
+    float: left;
+    width: 60%;
+    height: 300px;
+}
+
+aside {
+    background-color: white;
+    float: right;
+    width: 35%;
+    height: 300px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+Div {
+    text-align: center;
+article {
+    border: 1px blue dotted;
+    height: 10px;
+    background-color: gray;
+    
+}
+}
+p {
+    border: 1px blue dotted;
+    height: 1ph;
+}
+
+h1 {
+    border: 1px blue dotted;
+    height: 1ph;
+}
+
+h2 {
+    border: 1px blue dotted;
+    height: 1ph;
+}
+
+h3 {
+    border: 1px blue dotted;
+    height: 1ph;
+}
+
+footer {
+    border: 1px blue dotted;
+    padding: 20px;
+    height: 40px;
+    text-align: center;
+    background-color: white;
+    margin-top: 17px;
+}
+
+.clearfix {
+    overflow: auto;
+}
